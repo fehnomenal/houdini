@@ -1,5 +1,11 @@
 # houdini
 
+## 0.16.0-next.3
+
+### Patch Changes
+
+-   [#485](https://github.com/HoudiniGraphql/houdini/pull/485) [`c21942c`](https://github.com/HoudiniGraphql/houdini/commit/c21942c4a364dbaca4008dc0ad8263fdc940da84) Thanks [@jycouet](https://github.com/jycouet)! - fix peerDependencies of houdini, graphql needs to be <16
+
 ## 0.16.0-next.2
 
 ### Patch Changes
